@@ -1,0 +1,85 @@
+What is Python?
+	Programming Language
+		1. POP - procedure  - C, HTML,CSS
+		2. OOP - Object - C++, Java, Dotnet
+What do you do with python?
+	Programming
+	Web application
+	Games
+	AI & Machine learning
+	Visualization - graphs
+	Scripting - Hacking
+	Animation
+	API development - Communication
+Why Python?
+	Usage is more
+	easy readable/understandable
+	More library
+	Hybrid model( POP + OOP)
+	Fast
+
+IDE -> interactive development env -> IDLE
+
+Variables:
+    Value can be defined , read with the help of a variable
+
+Extension for Python -> .py
+.doc/.docx
+.txt
+.ppt
+.pdf
+
+Python is a dynamically typed language.
+
+String -> Anything which is in double quotes [" "] is string.
+"" -> it takes multiple values in a single line
+'' -> it for characters
+""" """ -> multi line comment / multiline string
+
+Data Types:
+Data -> some information which is saved in a variable
+Its Types:
+1. Numeric -> Integer, Float
+2. Dictionary
+3. Boolean -> True, False
+4. Set
+5. Sequence -> List, Tuple, Strings
+
+
+Operators:
+
+Arithmetic Operators:
+    Add
+    Sub
+    Mul
+    Division - float/ floor
+    Mod
+    power
+	
+	
+				7)50(0.9999   -> 0 -> // - floor divison
+				  49
+				------
+				   1   -> % mod
+
+Comparison Operator:
+The output of a comparison operator is always boolean.
+
+    Greater than -> >
+    lesser than -> <
+    double equals -> ==
+    not equals -> !=
+    greater than or equal -> >=
+    lesser than or equal -> <=
+
+Logical Operators:
+    and   -> if both are true then O/P is true
+    or    -> if anyone is true then O/P is true
+    not   -> Opposite of the value
+
+Assignment Operators:
+    =
+    +=  -> x += y -> x = x + y
+    -=  -> y-=x   -> y = y - x
+    *=
+    /=
