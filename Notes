@@ -83,3 +83,52 @@ Assignment Operators:
     -=  -> y-=x   -> y = y - x
     *=
     /=
+------------------------------------------------------------------------------------------------------
+Day-2
+
+Math module
+------------
+Used for all the mathematical functions and calculations.
+
+Strings:
+--------
+Set of characters which are written inside the double quotes[" "]
+
+Initialization
+Accessing the string
+
+String Slicing:
+    str[start:end-1]
+    reverse -> str[::-1]
+
+String Operators:
+-----------------------------------------------------------------------------------
+
+Conditional Statements:
+-----------------------
+
+if I want to work then I'll work else I'll not work.
+
+1. If condition
+Syntax:
+    if(condition):
+        -----------
+
+Rules:
+    1. Always have ':' after the condition
+    2. Intend your block of code
+
+2. If....else conditional
+
+Syntax:
+    if condition:            #True
+        ------------
+    else:                    # False cases
+        ------------
+
+    Rules:
+        1. For one if there can only one else
+        2. else will never have a condition? Y? -> Condition is already given in the if block
+
+3. Nested if
+4. elif
