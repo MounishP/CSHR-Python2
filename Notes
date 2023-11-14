@@ -1,3 +1,5 @@
+Rule: The code should either be added or deleted but never edited
+
 What is Python?
 	Programming Language
 		1. POP - procedure  - C, HTML,CSS
@@ -131,4 +133,6 @@ Syntax:
         2. else will never have a condition? Y? -> Condition is already given in the if block
 
 3. Nested if
+    If within another if
 4. elif
+    If there are multiple conditions to be executed then we can use elif
