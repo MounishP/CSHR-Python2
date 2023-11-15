@@ -1,0 +1,12 @@
+1. Sum of numbers using a loop
+    input -> n
+    0+1+...+n
+
+2. Factorial calculation using a while loop:
+    input -> n -> 5
+    1*2*3*4*5 =>120
+
+3. Print a pattern using nested loops
+
+4. Menu-driven calculator using a while loop
+    Menu -> input as a choice -> operation as a choice -> output
