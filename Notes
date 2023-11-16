@@ -1,5 +1,11 @@
-Recorded classes: 2,3
+Recorded classes: 2,3,5
 Rule: The code should either be added or deleted but never edited
+Rules while writing a program:
+    1. Never write the code hard coded
+    2. Checks -> null checks
+        if input is string: is it a number or alpha-numeric
+                            make the string into a upper/lower case
+        if input is number: is it a alpha-numeric (int(input))
 
 What is Python?
 	Programming Language
@@ -162,3 +168,6 @@ List:
 
 
 Nested loops: -> need to explain
+
+
+String join -> 'm'.join('h') -> 'mh'

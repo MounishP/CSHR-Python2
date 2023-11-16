@@ -10,3 +10,12 @@
 
 4. Menu-driven calculator using a while loop
     Menu -> input as a choice -> operation as a choice -> output
+
+---
+Solved in class: [guessGame]
+---------------
+3. Guess the number game:
+    in the range of 1 to 100 -> input
+    guess -> ?
+    attempts = 3
+    hints -> lesser, greater
