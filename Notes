@@ -171,3 +171,12 @@ Nested loops: -> need to explain
 
 
 String join -> 'm'.join('h') -> 'mh'
+-------------------------------------------------------------------------------------------------------
+Day 5:
+
+Continue & Break:
+
+Continue -> skip
+    if a certain condition is met then we use continue to skip the current iteration.
+Break    -> stop
+    if a certain condition is met then we use break to stop the iteration or loop.

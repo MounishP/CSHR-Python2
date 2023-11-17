@@ -1,0 +1,18 @@
+1. program to find the first three even numbers in a given range.
+
+start
+stop
+
+odd -> skip
+even -> print
+
+3 even -> break
+
+2.Find the given number is a strong number:
+    145 = 1! +4!+5! = 145
+    4236 = 4! +2!+3!+6! == 4236
+
+3. Find the factorial of a given number
+3! = 3*2*1 = 6
+
+4. Simple real-time to-do list manager
