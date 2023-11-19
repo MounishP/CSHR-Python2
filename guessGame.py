@@ -7,7 +7,7 @@
 """
 import random
 
-secretNumber = random.randint(1, 100)
+secretNumber = random.randint(1, 100)  # random number from 1 to 100
 guess = None
 attempts = 0
 
