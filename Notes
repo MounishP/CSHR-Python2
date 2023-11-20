@@ -180,3 +180,13 @@ Continue -> skip
     if a certain condition is met then we use continue to skip the current iteration.
 Break    -> stop
     if a certain condition is met then we use break to stop the iteration or loop.
+
+---------------------------------------------------------------------------------------------------------
+Day 7:
+
+Sequence data types: List, Tuple, String
+
+List:
+1. List is a heterogeneous collection of objects
+2. Lists are dynamically sized arrays
+3. List -> [] 'separated by ,'
