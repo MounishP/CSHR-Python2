@@ -1,4 +1,4 @@
-Recorded classes: 2,3,5,6
+Recorded classes: 2,3,5,6,7,8
 Rule: The code should either be added or deleted but never edited
 Rules while writing a program:
     1. Never write the code hard coded
@@ -190,3 +190,18 @@ List:
 1. List is a heterogeneous collection of objects
 2. Lists are dynamically sized arrays
 3. List -> [] 'separated by ,'
+
+-----------------------------------------------------------------------------------------------------------
+Day 8:
+
+Tuple:
+
+1. Tuple is a collection of python objects most likely a list.[sequence]
+2. Tuple -> ()
+3. append(),insert(),remove() -> doesn't exist in tuple
+4. Tuples are basically immutable
+
+Dictionary:
+Dictionary is a combination of keys and values.
+Dictionary -> {}
+Dictionary is not a part of sequence datatypes. so indexing is not available.
