@@ -1,4 +1,4 @@
-Recorded classes: 2,3,5,6,7,8,9
+Recorded classes: 2,3,5,6,7,8,9,10
 Rule: The code should either be added or deleted but never edited
 Rules while writing a program:
     1. Never write the code hard coded
@@ -208,3 +208,27 @@ Dictionary is not a part of sequence datatypes. so indexing is not available.
 -----------------------------------------------------------------------------------------------------------
 Day 9:
 Analog clock with python animation
+------------------------------------------------------------------------------------------------------------
+Day 10:
+Python date and time:
+
+Functions:
+When a function is present inside a class then it is called as a method.
+
+Why functions:
+1. Re-usability
+2. Readability
+
+#Creating a function
+def ...name...():
+    ...
+    ...
+    ..
+    ..
+
+#calling the function
+...name....()
+
+Functions with arguments
+pass by value -> passing the value in the function call
+pass by reference -> passing the variable in the function call
