@@ -1,4 +1,4 @@
-Recorded classes: 2,3,5,6,7,8,9,10
+Recorded classes: 2,3,5,6,7,8,9,10,11
 Rule: The code should either be added or deleted but never edited
 Rules while writing a program:
     1. Never write the code hard coded
@@ -232,3 +232,17 @@ def ...name...():
 Functions with arguments
 pass by value -> passing the value in the function call
 pass by reference -> passing the variable in the function call
+
+OOPS - day 11
+-------------------
+Class - Class is a blueprint or a template for creating objects. It defines a set of attributes and methods that
+will be common to all objects created from it.
+Object - Representation of the class or instance of the class. It is a concrete realization of the attributes and
+methods defined in a class
+
+__init__() method -> Constructor -> Constructor is called automatically when ever the object is created.
+
+Inheritance:
+-------------------------------
+Concept that allows a class to inherit attributes(variables) and methods from another class.
+Why? Reusability & modularity
