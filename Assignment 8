@@ -1,0 +1,17 @@
+1. Problem: Shape Inheritance
+Question:
+Create a base class Shape with an attribute color.
+Derive classes Circle and Rectangle from Shape with additional attributes radius and length,
+width respectively. Implement methods to calculate and display the area for each shape.
+
+2. Problem: Employee Inheritance
+Question:
+Create a base class Employee with attributes name and emp_id.
+Derive a class Manager from Employee with an additional attribute department.
+Implement methods to display employee information for both classes.
+
+3. Problem: Zoo Animals
+Question:
+Create a base class Animal with attributes name and sound.
+Derive classes Lion and Elephant from Animal with specific sounds for each.
+Implement a method to make each animal sound.
