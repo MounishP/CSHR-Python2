@@ -246,3 +246,16 @@ Inheritance:
 -------------------------------
 Concept that allows a class to inherit attributes(variables) and methods from another class.
 Why? Reusability & modularity
+----------------------------------------------------
+Day 14
+-------
+Polymorphism -> If an object as multiple forms or types then that object is exhibiting polymorphism.
+There are 2 types:
+1. Compile-time polymorphism
+    Compile-time -> before starting of the program
+    Static Binding or Method Overloading
+    Method Overloading -> a method having same name but different number of variables
+2. Run-time polymorphism
+    Run-time -> everything you find after the program is ran
+    Dynamic Binding or Method OverRidding
+    Method OverRiding -> Same method is present in different class while in Inheritance
