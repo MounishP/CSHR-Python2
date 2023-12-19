@@ -259,3 +259,17 @@ There are 2 types:
     Run-time -> everything you find after the program is ran
     Dynamic Binding or Method OverRidding
     Method OverRiding -> Same method is present in different class while in Inheritance
+
+Day 15
+--------
+Exception Handling -> it is a mechanism in python that allows user to handle errors or exceptions and
+preventing the program from crashing.
+
+Syntax -> Try except blocks
+
+try{
+
+
+}except{
+
+}
