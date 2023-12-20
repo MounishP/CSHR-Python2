@@ -1,4 +1,4 @@
-Recorded classes: 2,3,5,6,7,8,9,10,11,12,13
+Recorded classes: 2,3,5,6,7,8,9,10,11,12,13,14,15,16
 Rule: The code should either be added or deleted but never edited
 Rules while writing a program:
     1. Never write the code hard coded
@@ -273,3 +273,17 @@ try{
 }except{
 
 }
+
+Day 16: Tic Tac Toe Intro
+
+Day 17
+---------
+Functional Programming
+
+All the 3 are inbuilt functions
+Map -> applied to a function and its iterable
+Filter -> applied to a function and a iterable to get a desired output
+
+Lambda -> it is anonymous function, its written in single line
+        it doesnt have function name
+        it doesnt have return type
