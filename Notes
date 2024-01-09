@@ -1,4 +1,4 @@
-Recorded classes: 2,3,5,6,7,8,9,10,11,12,13,14,15,16
+Recorded classes: 2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20
 Rule: The code should either be added or deleted but never edited
 Rules while writing a program:
     1. Never write the code hard coded
@@ -268,10 +268,7 @@ preventing the program from crashing.
 Syntax -> Try except blocks
 
 try{
-
-
 }except{
-
 }
 
 Day 16: Tic Tac Toe Intro
@@ -287,3 +284,22 @@ Filter -> applied to a function and a iterable to get a desired output
 Lambda -> it is anonymous function, its written in single line
         it doesnt have function name
         it doesnt have return type
+
+Day 18
+------
+Mysql workbench
+To Do:
+1. CRUD Operation
+2. Establish connection b/w python & MySql
+3. Programs on CRUD
+
+Day 19
+-------------
+Assignment: Create a python file where you will connect to mysql db and perform CRUD operations in python.
+
+Day 20
+-------------
+
+Open CV: Free - Computer Vision
+1. Photos or videos
+2. Live photos or videos
